@@ -2,8 +2,8 @@
 
 ##  Google Colab Links
 
-*  **Model Training Notebook:** [Add Your Colab Link Here]
-*  **EDA & Data Analysis Notebook:** [Add Your Colab Link Here]
+*  **Model Training Notebook:** [Model Training Notebook](https://colab.research.google.com/drive/1b_eQnMil-6AApVbCQuethQkdIb6xCDo5#scrollTo=ia7xEaKCNxPB)
+*  **EDA & Data Analysis Notebook:**  [EDA & Data Analysis Notebook](https://colab.research.google.com/drive/1u8bA4Nr18TbIrIYcTgj6ysPu2a6qjEG1#scrollTo=ySYT69wFKHmm)
 
 ---
 
