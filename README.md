@@ -2,7 +2,7 @@
 
 ##  Google Colab Links
 
-*  **Model Training Notebook:** [Model Training Notebook](https://colab.research.google.com/drive/1b_eQnMil-6AApVbCQuethQkdIb6xCDo5#scrollTo=ia7xEaKCNxPB)
+*  **Model Training Notebook:** [Model Training Notebook](https://colab.research.google.com/drive/1b_eQnMil-6AApVbCQuethQkdIb6xCDo5#scrollTo=ia7xEaKCNxPB) ,[Notebook](https://colab.research.google.com/drive/1HLTsxC_z6GkLKl5ZmnQkrFd5plrbEYHz?usp=sharing)
 *  **EDA & Data Analysis Notebook:**  [EDA & Data Analysis Notebook](https://colab.research.google.com/drive/1u8bA4Nr18TbIrIYcTgj6ysPu2a6qjEG1#scrollTo=ySYT69wFKHmm)
 
 *  **Project Presentation Slides:**  [Project Presentation Slides](https://docs.google.com/presentation/d/1kOhJd-XTln0w5NigRFLyhe8gZfDF-E8c7TCXoLABYw8/edit?usp=sharing)
